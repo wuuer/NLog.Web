@@ -17,7 +17,7 @@ namespace NLog.Web.Targets.Wrappers
     /// Buffers log events for the duration of ASP.NET request and sends them down 
     /// to the wrapped target at the end of a request.
     /// </summary>
-    /// <seealso href="https://github.com/nlog/nlog/wiki/AspNetBufferingWrapper-target">Documentation on NLog Wiki</seealso>
+    /// <seealso href="https://github.com/NLog/NLog/wiki/AspNetBufferingWrapper-target">Documentation on NLog Wiki</seealso>
     /// <remarks>
     /// <p>
     /// Typically this target is used in cooperation with PostFilteringTargetWrapper

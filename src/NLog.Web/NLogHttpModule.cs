@@ -7,7 +7,7 @@ namespace NLog.Web
     /// <summary>
     /// ASP.NET HttpModule that enables NLog to hook BeginRequest and EndRequest events easily.
     /// </summary>
-    /// <seealso href="https://github.com/nlog/nlog/wiki/AspNetBufferingWrapper-target">Documentation on NLog Wiki</seealso>
+    /// <seealso href="https://github.com/NLog/NLog/wiki/AspNetBufferingWrapper-target">Documentation on NLog Wiki</seealso>
     [Obsolete("Replaced by NLogBufferingTargetWrapperModule for AspNetBufferingWrapper support. Marked obsolete with NLog 6.0")]
     public class NLogHttpModule : IHttpModule
     {
