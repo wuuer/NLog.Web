@@ -4,6 +4,15 @@ See also [releases](https://github.com/NLog/NLog.Web/releases) and [milestones](
 
 Date format: (year/month/day)
 
+### Version 6.2 (2026/08/16)
+
+- **NLog.Web.AspNetCore**
+  - [#1178](https://github.com/NLog/NLog.Web/pull/1178) Updated dependency NLog v6.2 (@snakefoot)
+  - [#1162](https://github.com/NLog/NLog.Web/pull/1162) Updated tutorials and examples for using NLog with ASP.NET Core (@snakefoot)
+
+- **NLog.Web**
+  - [#1178](https://github.com/NLog/NLog.Web/pull/1178) Updated dependency NLog v6.2 (@snakefoot)
+
 ### Version 6.1.4 (2026/07/08)
 
 - **NLog.Web.AspNetCore**
